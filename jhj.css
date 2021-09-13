@@ -1,0 +1,17 @@
+.container-b {
+    border: 2px darkgray solid;
+    text-align: center;
+    margin: 20px;
+    padding: 0px 50px;
+}
+.nv {
+    border: 2px darkgray solid;
+    background-color: lightpink;
+    margin-bottom: 20px;
+}
+.futr {
+    border: 2px darkgray solid;
+    background-color: #bfffc0;
+    margin: 20px 0px;
+    padding-bottom: 16px;
+}
